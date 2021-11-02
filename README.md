@@ -2,7 +2,7 @@
 
 **Um pouco sobre mim:**
 
-- 🔭 FullStack, trabalho com JavaScript, Node.JS (e um pouquinho de Vue)
+- 🔭 FullStack, trabalho com JavaScript, Node.JS (e um pouquinho de Vue) em <a href="https://klutch.com.br" target="_blank">Klutch Tecnologia</a>
 - 🌱 Estudando Vue e cursando ensino médio integrado no IFBA
 - 💬 Começei a estudar assuntos relacionado a programação e código aproximadamente em março de 2020 em meio à pandemia e desde então me apaixonei pela área e não a abandonei mais
 
